@@ -1,6 +1,6 @@
 Python 3.13.9 (tags/v3.13.9:8183fa5, Oct 14 2025, 14:09:13) [MSC v.1944 64 bit (AMD64)] on win32
 Enter "help" below or click "Help" above for more information.
->>> monthly_income = float(input("Enter your monthly inncome: "))
+>>> monthly_income = float(input("Enter your monthly income: "))
 Enter your monthly inncome: 5000
 >>> monthly_expenses = float(input("Enter your total monthly expenses: "))
 Enter your total monthly expenses: 4000
