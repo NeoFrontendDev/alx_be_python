@@ -10,7 +10,7 @@ What's the weather like today? (sunny/rainy/cold): sunny
 ... elif weather == "cold":
 ...     print("Make sure to wear a warm coat and a scarf.")
 ... else:
-...     print("Sorry, I don't have recommendations ffor this weather.")
+...     print("Sorry, I don't have recommendations for this weather.")
 ... 
 ...     
 Wear a t-shirt and sunglasses.
